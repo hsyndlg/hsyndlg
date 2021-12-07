@@ -1,4 +1,4 @@
-<center>### Hi , I'am Huseyin 👋</center>
+<center> <h1> Hi , I'am Huseyin 👋 </h1> </center>
 
 <!--
 **hsyndlg/hsyndlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

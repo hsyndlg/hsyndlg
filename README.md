@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'am Huseyin :wave: </h1>
 
+I continue my career as a backend developer. I'm trying to develop best practices code. I love learning new technology. I don't neglect to apply while learning.
+
 <!--
 **hsyndlg/hsyndlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
